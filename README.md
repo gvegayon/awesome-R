@@ -370,6 +370,7 @@ Angle Regression
 * [tnet](https://cran.r-project.org/web/packages/tnet/index.html) - Network measures for weighted, two-mode and longitudinal networks.
 * [rgexf](https://bitbucket.org/gvegayon/rgexf/wiki/Home) - Export network objects from R to [GEXF](http://gexf.net/format/), for manipulation with network software like [Gephi](https://gephi.github.io/) or [Sigma](http://sigmajs.org/).
 * [visNetwork](https://github.com/DataKnowledge/visNetwork) - Using vis.js library for network visualization.
+* [netdiffuseR](https://github.com/USCCANA/netdiffuseR) -  Network Analysis for Diffusion of Innovations.
 
 ## R Development
 *Packages for packages.*
